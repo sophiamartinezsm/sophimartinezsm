@@ -1,7 +1,10 @@
 # 💫 About Me:
 🎓 Education: Completed my studies in Spain until university, followed by a master's degree in the USA.
+
 💼 Current Role: Healthcare Data Scientist at Neural AI Integration Research Lab since January 2023.
+
 🌱 Interests: Specializing in clinical data science, genomics, and bioinformatics. I also have a keen interest in neural networks and their application in natural language processing.
+
 💬 Ask me about: Clinical data science, single-cell RNA sequencing analysis, bioinformatics, and healthcare analytics.
 
 
